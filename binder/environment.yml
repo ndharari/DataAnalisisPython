@@ -1,0 +1,7 @@
+name: ClaseSargent
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - rise
